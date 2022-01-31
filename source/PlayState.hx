@@ -192,7 +192,7 @@ class PlayState extends MusicBeatState
 	var detailsPausedText:String = "";
 	#end
 
-
+ // i hate that this has no mods
 	public var grpNoteSplashes:FlxTypedGroup<NoteSplash>;
 
 	// modifiers
