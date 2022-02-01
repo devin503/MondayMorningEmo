@@ -1023,6 +1023,10 @@ class PlayState extends MusicBeatState
 			{
 				p2ColorBar.setRGB(213, 126, 0, 255);
 			}
+			/* case 'custom':
+			{
+				p2ColorBar.setRGB(product.healthColors[0], product.healthColors[1], product.healthColors[2]);
+			}*/
 			default:
 			{
 				p2ColorBar.setRGB(255, 0, 0, 255);

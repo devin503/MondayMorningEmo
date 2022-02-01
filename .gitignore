@@ -1,2 +1,8 @@
 export/
 .vscode/
+.wslrun
+systemd-genie_1.44_amd64.deb
+assets/shared/music/dialogueDaveThing.ogg
+assets/shared/music/goodEndingDaveEggIg.ogg
+assets/shared/music/dialogueDaveThing.ogg:Zone.Identifier
+assets/shared/music/goodEndingDaveEggIg.ogg:Zone.Identifier
