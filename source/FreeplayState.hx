@@ -271,7 +271,8 @@ class FreeplayState extends MusicBeatState
 			
 			PlayState.deathCounter = 0;
 
-			LoadingState.loadAndSwitchState(new PlayState(), true);
+			// TEMPORARY COMMENT MAYBE LoadingState.loadAndSwitchState(new PlayState(), true);
+			LoadingState.loadAndSwitchState(new CharacterSelection(PlayState.SONG.player1), true);
 		}
 	}
 
